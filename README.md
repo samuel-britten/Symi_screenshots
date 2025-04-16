@@ -12,6 +12,8 @@ Below you'll find a few screenshots showcasing the UI and basic functionality of
 
 ![symi_3](https://github.com/user-attachments/assets/1372137e-241b-4f68-b1f4-c246c98ed5f4)
 
+![Screenshot 2025-04-15 213740](https://github.com/user-attachments/assets/dcac1594-4fbf-474e-ae95-2dc090ea96c1)
+
 <img width="1280" alt="symi_0" src="https://github.com/user-attachments/assets/fe13357b-3de8-481f-9c53-e59ef90798f7" />
 
 ![symi_1](https://github.com/user-attachments/assets/9b2bbd3c-f13d-43ff-a0e5-25f4a68e2a7a)
